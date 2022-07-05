@@ -1,0 +1,1 @@
+import{_ as e,o,c as s,b as c}from"./index.879af33d.js";const t={},a={class:"grupo"},r=c("h1",null,"o que vai aqui?",-1),_=[r];function n(i,d){return o(),s("div",a,_)}var l=e(t,[["render",n]]);export{l as default};
