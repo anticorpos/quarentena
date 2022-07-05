@@ -1,0 +1,1 @@
+import{_ as e,o,c as s,b as c}from"./index.f8d0896c.js";const t={},_={class:"about"},a=c("h1",null,"QR CODE AQUI",-1),n=[a];function r(d,i){return o(),s("div",_,n)}var f=e(t,[["render",r]]);export{f as default};
